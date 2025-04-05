@@ -1,3 +1,9 @@
 pandas
 numpy
 kaggle
+matplotlib
+seaborn
+scipy
+scikit-learn
+plotly
+missingno
